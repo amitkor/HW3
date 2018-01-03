@@ -40,4 +40,4 @@ To embed an image:
 
 Or save the image in “image” directory within your repo and:
 
-![Image of github's cat](/HW3/github-octocat.png)
+![Image of github's cat](https://github.com/amitkor/HW3/blob/master/github-octocat.png?raw=true)
